@@ -3,7 +3,7 @@ export const STRING={
         "EMAIL" :"Email address",
          "PASSWORD":"Password",
          "placeholder":"Enter email",
-         "heading":"My Buddy",
+         "heading":"Friends",
          "heading2":"Khatta",
          "h1":"Admin Login",
          "placeholder":"Enter email",
